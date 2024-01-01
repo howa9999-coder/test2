@@ -136,6 +136,7 @@ section{
     padding:  0px 15px;
     display: flex;
     flex-direction: column;
+    margin-bottom: 40px;
 }
 .slogan h1{
     font-size: 27px;
