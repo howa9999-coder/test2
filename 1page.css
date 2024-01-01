@@ -256,9 +256,11 @@ section{
         padding: 50px 5%;
     }
     .product-card{
-        width: 90%;
-       
+        width: 90%;    
     }
+    .product-card:hover{
+    transform: scale(1);
+}
 }
 
 /*about-us*/
@@ -410,6 +412,9 @@ section{
         width: 90%;
         
     }
+    .contact-card:hover{
+    transform: scale(1);
+}
     .icon{
       
         font-size: 5em;
